@@ -40,6 +40,9 @@ The `TypeWriterLabel` aims to be a solution for developers who:
 1. Download the ZIP (Not available on Godot Asset Library for now)
 2. Copy `addons/type_writer_label` folder to your projects's `addons/`
 3. Enable the plugin in Project Settings > Plugins
+
+(You can also install Typewriter Label from the Godot in-engine AssetLib window)
+
 4. Open any scene tree, go to "add/create a new node" and search for `TypeWriterLabel`, then create it.
 
 The created node is a extension of `RichTextLabel`, so just like a new `RichTextLabel` it comes with no formatting at all.
